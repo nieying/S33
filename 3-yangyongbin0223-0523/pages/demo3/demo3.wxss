@@ -1,0 +1,74 @@
+/* pages/demo3/demo3.wxss */
+image{
+    width: 150rpx;
+    height: 150rpx;
+}
+.body{
+    margin-top: 20rpx;
+    margin-left: 60rpx;
+    display: flex;
+    flex-direction: column;
+}
+.intro{
+    display: flex;
+}
+.detil{
+    margin-top: 7rpx;
+    margin-left: 30rpx;
+}
+.name{
+    line-height: 40rpx;
+}
+.name text:first-child{
+    font-size: 28rpx;
+}
+.name text:last-child{
+    font-size: 24rpx;
+}
+.rank text{
+    display: inline-block;
+    border: 1rpx solid #2095F2;
+    border-radius: 15rpx;
+    font-size: 20rpx;
+    color: #2095F2;
+    padding: 1rpx 2rpx;
+}
+.rank text:first-child{
+    margin-right: 10rpx;
+}
+.count{
+    font-size: 24rpx;
+    line-height: 33rpx;
+    margin-top: 20rpx;
+}
+.count text:nth-child(2) , .count text:nth-child(4){
+    opacity: 0.5;
+    margin-right: 20rpx;
+}
+.star{
+    display: flex;
+    margin-top: 50rpx;
+}
+.star text{
+    margin-right: 35rpx;
+    font-size: 36rpx;
+    line-height: 50rpx;
+}
+.star image{
+    width: 50rpx;
+    height: 50rpx;
+    margin-right: 25rpx;
+}
+.foot{
+    margin-top: 51rpx;
+    line-height: 40rpx;
+    font-size: 28rpx;
+    opacity: 0.3;
+    display: flex;
+    align-items: center;
+}
+.foot image{
+    width: 28rpx;
+    height: 28rpx;
+    margin-right: 10rpx;
+}

@@ -1,0 +1,15 @@
+<!--pages/demo1/demo1.wxml-->
+<view class="body">
+<view class="head"></view>
+<navigator class="in" >
+    <text>微信登录</text>
+</navigator>
+<navigator class="out">
+    <text>取消登录</text>
+</navigator>
+<view class="foot">
+    <text>七 | 友</text>
+    <text>Copyright©2020-2026 QiYou.</text>
+    <text>All Right Reserved</text>
+</view>
+</view>
