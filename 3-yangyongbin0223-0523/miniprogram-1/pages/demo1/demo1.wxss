@@ -1,0 +1,58 @@
+/* pages/demo1/demo1.wxss */
+.body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+text{
+    display: block;
+}
+.head{
+    background-color: #56AFD9 ;
+    width:318rpx;
+    height:294rpx;
+    margin-top: 215rpx;
+}
+.in{
+    width: 370rpx;
+    height: 79rpx;
+    margin-top: 200rpx;
+    border-radius: 10rpx;
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFFFFF;
+    font-size: 32rpx;
+    line-height: 45rpx;
+    letter-spacing: 2rpx;
+    font-family: PingFangSC-Medium;
+    opacity: 0.8;
+}
+.out{
+    margin-top: 50rpx;
+    font-size: 32rpx;
+    line-height: 45rpx;
+    letter-spacing: 2rpx;
+    color: #969CA2;
+}
+.foot{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100rpx;
+    color: #969CA2;
+}
+.foot text:nth-child(1){
+    line-height: 45rpx;
+    letter-spacing: 2rpx;
+    margin-bottom: 40rpx;
+    font-size: 32rpx;
+}
+.foot text{
+    line-height: 33rpx;
+    margin: 5rpx 0;
+    font-size: 24rpx;
+}

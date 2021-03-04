@@ -1,0 +1,18 @@
+<!--pages/demo2/demo2.wxml-->
+<view class="body">
+    <view class="head">
+        <text>是否解决了您的问题？</text>
+    </view>
+    <view class="hr"></view>
+    <navigator class="done"><text>已解决</text></navigator>
+    <view class="notdone">
+        <navigator class="time">时间再约</navigator>
+        <navigator class="port">申诉</navigator>
+    </view>   
+    <view class="content">
+        <text>注意事项：</text>
+        <text>1.选择已解决则订单完成</text>
+        <text>2.申诉是对对方回答不符合个人需求，希望申诉退款</text>
+        <text>3.时间再约是拨打电话时对方没空，若预约了第二次对方有空的时间则选择“时间再约”</text>
+    </view>
+</view>

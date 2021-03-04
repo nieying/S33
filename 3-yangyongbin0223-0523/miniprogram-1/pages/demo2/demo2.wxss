@@ -1,0 +1,68 @@
+/* pages/demo2/demo2.wxss */
+.body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+text{
+    display: block;
+}
+.hr{
+    height: 5rpx;
+    width: 10rpx;
+    opacity: 1;
+    color: #D8D8D8 ;
+}
+.head{
+    display: flex;
+    color: #DFAF6B;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 40rpx;
+    padding-bottom: 40rpx;
+}
+.head text{
+    margin-top: 40rpx;
+    font-size: 36rpx;
+    line-height: 50rpx;
+}
+.done{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30rpx;
+    background-color: #2095F2;
+    width: 630rpx;
+    height: 60rpx;
+}
+.done text{
+    font-size: 28rpx;
+    line-height: 40rpx;
+    color: #FFFFFF;
+}
+.notdone{
+    display: flex;
+    font-size: 28rpx;
+    line-height: 40rpx;
+    margin: 10rpx 83rpx;
+}
+.notdone .time{
+    color: #2095F2 ;
+    margin-right: 400rpx;
+}
+.notdone .port{
+    color: #9D9D9D;
+}
+.content{
+    font-size: 28rpx;
+    line-height: 35rpx;
+    letter-spacing: 1.2rpx;
+    margin: 10rpx 57rpx;
+}
+.content text{
+    margin: 20rpx 0;
+    color: #333333;
+    opacity: 0.3;
+    font-family: PingFangSC-Regular;
+}
