@@ -1,0 +1,70 @@
+.blueHead {
+    width: 318px;
+    height: 294px;
+    margin: 415px auto 431px;
+    background: #56AFD9;
+    border: 1px solid #979797;
+}
+
+.weiDeng {
+    position: relative;
+    height: 79px;
+    width: 370px;
+    background: #49CA5D;
+    border: 1px solid #61BA68;
+    border-radius: 10px;
+    border-radius: 10px;
+    margin: 0px auto 46px;
+}
+
+.weiDeng a {
+    position: absolute;
+    opacity: 0.8;
+    font-family: PingFangSC-Medium;
+    font-size: 32px;
+    color: #FFFFFF;
+    letter-spacing: 2px;
+    left: 121px;
+    top: 16px;
+    text-decoration: none;
+}
+
+.noWeideng a {
+    font-family: PingFangSC-Medium;
+    font-size: 32px;
+    color: #969CA2;
+    letter-spacing: 2px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.noWeideng {
+    margin-top: 46px;
+    text-align: center;
+}
+
+.qiYou {
+    margin-top: 75px;
+    font-family: PingFangSC-Medium;
+    font-size: 32px;
+    color: #969CA2;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+.text,
+.textmin {
+    margin-top: 46px;
+    text-align: center;
+    font-family: PingFangSC-Medium;
+    font-size: 24px;
+    color: #969CA2;
+}
+
+.text {
+    margin-top: 46px;
+}
+
+.textmin {
+    margin-top: 16px;
+}

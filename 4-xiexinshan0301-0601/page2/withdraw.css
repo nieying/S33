@@ -1,0 +1,107 @@
+.phone {
+    position: relative;
+    width: 750px;
+    height: 1624px;
+    margin: 0 auto;
+}
+
+.right {
+    float: left;
+    font-family: PingFangSC-Medium;
+    font-size: 37px;
+    color: #000000;
+    letter-spacing: 0;
+    margin-left: 60px;
+}
+
+.with {
+    font-family: PingFangSC-Medium;
+    font-size: 37px;
+    color: #000000;
+    letter-spacing: 0;
+    margin-left: 337px;
+}
+
+.header {
+    position: absolute;
+    top: 88px;
+}
+
+.tijin {
+    position: absolute;
+    left: 60px;
+    top: 216px;
+    font-family: PingFangSC-Medium;
+    font-size: 36px;
+    color: #000000;
+    letter-spacing: 0;
+}
+
+.yang {
+    position: absolute;
+    left: 528px;
+    top: 208px;
+    font-family: PingFangSC-Medium;
+    font-size: 48px;
+    color: #DFAF6B;
+    letter-spacing: 0;
+}
+
+.shuru {
+    position: absolute;
+    left: 571.5px;
+    top: 222px;
+    height: 40px;
+    width: 10px;
+    border-left: 2px solid #2095F2;
+}
+
+.xian {
+    top: 305.5px;
+    left: 60px;
+    background-color: #D8D8D8;
+    height: 1px;
+    width: 630px;
+    position: absolute;
+}
+
+.hhhh {
+    position: absolute;
+    opacity: 0.3;
+    font-family: PingFangSC-Regular;
+    font-size: 28px;
+    color: #333333;
+    letter-spacing: 1.2px;
+    line-height: 35px;
+    top: 325px;
+    left: 60px;
+}
+
+.two {
+    position: absolute;
+    opacity: 0.3;
+    font-family: PingFangSC-Regular;
+    font-size: 28px;
+    color: #333333;
+    letter-spacing: 1.2px;
+    line-height: 35px;
+    left: 188px;
+    bottom: 148px;
+}
+
+.fast {
+    bottom: 64px;
+    left: 167px;
+    height: 60px;
+    width: 450px;
+    position: absolute;
+    background: #2095F2;
+    border-radius: 29px;
+    border-radius: 29px;
+    font-family: PingFangSC-Medium;
+    font-size: 28px;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    text-align: center;
+    line-height: 60px;
+}
