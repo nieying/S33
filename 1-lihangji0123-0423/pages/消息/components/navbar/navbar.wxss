@@ -1,0 +1,30 @@
+/* pages/消息/components/navbar/navbar.wxss */
+.container{
+  display: flex;
+  height: 45px;
+  line-height: 45px;
+  /* border-bottom: 2px solid #D8D8D8; */
+  margin: 6px;
+  margin-top: 60px;
+}
+.nav-item{
+  flex: 1;
+  text-align: center;
+  font: 32px;
+}
+
+.active{
+  color: #2095f2;
+}
+.active1{
+  border-bottom: 3.2px solid #2095f2;
+}
+
+.container1{
+  display: flex;
+  margin: auto;
+}
+.bottom{
+  border-bottom: 1px solid #D8D8D8;
+  opacity: 0.6;
+}

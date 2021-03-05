@@ -1,0 +1,26 @@
+<!--pages/求助圈/post/post.wxml-->
+<view class="container">
+  <view class="container1">
+      <image class="pic" src="/assets/编组 2.png"></image>
+      <view class="container2">
+      <view class="container3">
+        <view class="char1">张正刚</view>
+        <view class="char2">·华都投资机构·投资人</view>
+      </view>
+      <view class="char3">14级-酒店管理学院</view>
+  </view>
+  </view>
+  <view style="font-size: 15px">学校有没有找投融资的校友?有个项目需要找投融资.</view>
+  <view class="somepic">
+    <image class="picc" src="/assets/位图.png"></image>
+    <image class="picc" src="/assets/位图.png"></image>
+  </view>
+  <view class="time">3小时前</view>
+  <view class="container4">
+    <view>投诉</view>
+    <image class="last2" src="/assets/评论.png"></image>
+    <view>5</view>
+    <image src="/assets/点赞.png" class="last1"></image>
+    <view>23</view>
+  </view>
+</view>

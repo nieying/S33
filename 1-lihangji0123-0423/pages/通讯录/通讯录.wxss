@@ -1,0 +1,28 @@
+/* pages/通讯录/通讯录.wxss */
+.title{
+  margin-top: 30px;
+  text-align: center;
+  font-size: 18px;
+}
+.container{
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+}
+.bar{
+  text-align: center;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  margin-left: 15px;
+}
+.bar1{
+  text-align: center;
+  font-size: 12px;
+}
+.pulldown{
+  height: 6px;
+  width: 8px;
+  
+  margin-top: 7px;
+}

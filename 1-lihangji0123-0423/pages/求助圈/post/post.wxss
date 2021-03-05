@@ -1,0 +1,79 @@
+/* pages/求助圈/post/post.wxss */
+.container{
+  /* background-color: orange; */
+  height: 360px;
+  width: 85%;
+  margin-left: 25px;
+  margin-bottom: 10px;
+  border-bottom: 1px solid rgba(216, 216, 216, 50%);
+  display: flex;
+  flex-direction: column;
+}
+.container1{
+  display: flex;
+  flex-direction: row;
+}
+.pic{
+  width: 50px;
+  height: 50px;
+  margin-top: 13px;
+
+  margin-bottom: 20px;
+}
+.container2{
+  display: flex;
+  flex-direction: column;
+}
+.container3{
+  display: flex;
+  flex-direction: row;
+  margin-top: 15px;
+  margin-left: 10px;
+}
+.char1{
+  font-size: 15px;
+}
+.char2{
+  font-size: 12px;
+  margin-top: 2px;
+}
+.char3{
+  font-size: 12px;
+  color: rgba(0, 0, 0, 30%);
+  margin-left: 10px;
+  margin-top: 5px;
+}
+.somepic{
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+}
+.picc{
+  height: 150px;
+  width: 100px;
+  margin-right: 15px;
+}
+.time{
+  font-size: 12px;
+  color: rgba(0, 0, 0, 30%);
+  margin-top: 15px;
+}
+.container4{
+  display: flex;
+  flex-direction: row;
+  font-size: 12px;
+  color: rgba(0, 0, 0, 30%);
+  margin-top: 12px;
+}
+.last2{
+  height:20px;
+  width:20px;
+  margin-left: 150px;
+  margin-right: 5px;
+}
+.last1{
+  height:20px;
+  width:20px;
+  margin-left: 60px;
+  margin-right: 5px;
+}
