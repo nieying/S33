@@ -1,0 +1,130 @@
+.phone {
+    position: relative;
+    width: 750px;
+    height: 1624px;
+    margin: 0 auto;
+    background-color: #f9f9f9;
+    overflow: hidden;
+}
+
+.header {
+    position: relative;
+    height: 186px;
+    width: 750px;
+    background-color: white;
+}
+
+.right {
+    position: absolute;
+    font-family: PingFangSC-Medium;
+    font-size: 37px;
+    color: #000000;
+    letter-spacing: 0;
+    left: 60px;
+    top: 99px;
+}
+
+.with {
+    position: absolute;
+    font-family: PingFangSC-Medium;
+    font-size: 37px;
+    color: #000000;
+    letter-spacing: 0;
+    left: 310px;
+    top: 99px;
+}
+
+.touxiang {
+    position: relative;
+    height: 180px;
+    width: 750px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: white;
+    line-height: 180px;
+    padding-left: 60px;
+    font-family: PingFangSC-Regular;
+    font-size: 32px;
+    color: #000000;
+}
+
+.touxiangkuang {
+    position: absolute;
+    left: 600px;
+    top: 38px;
+    width: 120px;
+    height: 120px;
+}
+
+.xinxi {
+    position: relative;
+    height: 120px;
+    width: 750px;
+    border-bottom: 2px solid #e7e7e7;
+    background-color: white;
+    line-height: 120px;
+    padding-left: 60px;
+    font-family: PingFangSC-Regular;
+    font-size: 32px;
+    color: #000000;
+}
+
+.yang {
+    position: absolute;
+    font-family: PingFangSC-Regular;
+    font-size: 28px;
+    color: #9D9D9D;
+    left: 608px;
+    text-decoration: none;
+}
+
+.imgx {
+    position: absolute;
+    left: 592px;
+    top: 36px;
+}
+
+.imgy {
+    position: absolute;
+    left: 672px;
+    top: 48px;
+}
+
+.hua {
+    position: absolute;
+    font-family: PingFangSC-Regular;
+    font-size: 28px;
+    color: #9D9D9D;
+    left: 520px;
+    text-decoration: none;
+}
+
+.bottom {
+    margin-top: 572px;
+    height: 166px;
+    width: 750px;
+    background-color: white;
+}
+
+.bottom div {
+    position: relative;
+    float: left;
+    width: 50px;
+    height: 92px;
+    margin-left: 110px;
+    line-height: 160px;
+    text-align: center;
+    font-family: PingFangSC-Regular;
+    font-size: 16px;
+    color: #AAABAC;
+}
+
+.bottom div img {
+    position: absolute;
+    top: 14px;
+    left: 0;
+}
+
+.me {
+    color: #2095F2 !important;
+}
