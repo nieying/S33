@@ -1,0 +1,9 @@
+<!--pages/求助圈/求助圈.wxml-->
+<view class="title">求助圈</view>
+<image class="pic" src="/assets/编组 3.png"></image>
+<view class="name">杨美琪</view>
+<image class="profile" src="/assets/编组 2.png"></image>
+<text>\n\n\n\n\n\n\n\n\n\n\n\n</text>
+<post></post>
+<post></post>
+
