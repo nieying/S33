@@ -1,7 +1,0 @@
-<!--pages/通讯录/搜索框/searchbar.wxml-->
-<view class="container">
-  <view class="item">
-    <icon class="iconbar" type="search"></icon>
-    <input class="inputbar" placeholder="搜名字, 专业, 职位, 地区, 公司, 投融资信息" bindinput="handleInput" value="{{searchValue}}"></input>
-  </view>
-</view>

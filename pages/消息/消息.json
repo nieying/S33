@@ -1,8 +1,0 @@
-{
-  "usingComponents": {
-    "navbar": "/pages/消息/components/navbar/navbar",
-    "navbar2": "/pages/消息/components/navbar2/navbar2",
-    "people": "/pages/消息/components/people/people"
-  },
-  "navigationBarTitleText": ""
-}

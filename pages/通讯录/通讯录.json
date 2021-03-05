@@ -1,7 +1,0 @@
-{
-  "usingComponents": {
-    "searchbar": "/pages/通讯录/搜索框/searchbar",
-    "people": "/pages/通讯录/联系人/联系人"
-  },
-  "navigationBarTitleText": "通讯录"
-}
